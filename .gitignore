@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Compiled TypeScript files
+dist/
+build/
+*.tsbuildinfo
+
+# Debug and error files
+error.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jest coverage and test reports
+coverage/
+
+# npm and yarn locks
+package-lock.json
+yarn.lock
+
+# React specific
+/build/
+.eslintcache
+
+# Miscellaneous
+*.swp
